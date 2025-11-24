@@ -41,7 +41,7 @@ A fully responsive ecommerce platform with:
 - Cart, wishlist, admin features  
 - Payment-ready architecture  
 
-🔗 Repo: *Add your GitHub link here*
+🔗 Repo: https://react-royalfitz.netlify.app/
 
 ---
 
@@ -77,21 +77,11 @@ A student placement preparation platform:
 
 ---
 
-### 🔗 **URL Shortener (MERN)**
-- Short URL generation  
-- Expiry logic  
-- Auto deletion  
-- Custom short codes  
-
-🔗 Repo: *Add your GitHub link here*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedashik05&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moahmmedashik05&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedashik05&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
