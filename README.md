@@ -1,101 +1,69 @@
-<h1 align="center">👋 Hey, I'm Mohammed Ashik S</h1>
-<h3 align="center">🚀 MERN Stack Developer | Java Programmer</h3>
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Bold&size=35&duration=2500&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Hey+I'm+Mohammed+Ashik+S!;MERN+Stack+Developer;Full+Stack+Developer;Code.+Learn.+Build.+Repeat." />
+</h1>
 
 ---
 
-### 🌟 About Me
-🔥 Passionate MERN Stack Developer who loves building **real-world applications**, optimizing **authentication & session security**, and creating **clean, scalable code**.
+## 👨‍💻 About Me
+I am a MERN Stack Developer and Java Programmer with a strong interest in building secure, scalable, and high-performance applications. I enjoy working on both frontend and backend development, creating clean interfaces as well as robust server-side systems.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack 
+<p align="center">
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,mysql,bootstrap,tailwind,git,github,vite,jwt,socketio" />
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-### **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Other Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
 ---
 
-## 🌟 Top Projects
+## 🤝 Connect With Me
 
-### 🔥 **RoyalFitz – Premium MensWear Ecommerce (MERN)**
-A fully responsive ecommerce platform with:
-- Secure login + JWT / Cookies  
-- Cloudinary product storage  
-- Cart, wishlist, admin features  
-- Payment-ready architecture  
+<p align="center">
 
+  <!-- LinkedIn -->
+  <a href="http://www.linkedin.com/in/mohammed-ashik-s-7735a6269" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/mohammedashik05" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:mohammedashik2k05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 🔥 Top Projects
+
+### ⭐ RoyalFitz – MensWear Ecommerce (MERN)
+✔ Fully responsive  
+✔ JWT Auth + Cookies  
+✔ Admin Panel  
+✔ Cloudinary integrated  
 🔗 Repo: https://react-royalfitz.netlify.app/
 
 ---
 
-### 🔐 **Secure Multi-Session Auth Manager**
-A Google-style security dashboard:
-- Multi-device login tracking  
-- Session management  
-- Cookie-based auth  
-- Suspicious login alerts  
-
-🔗 Repo: *Add your GitHub link here*
-
----
-
-### 💬 **MERN Realtime Chat App**
-- Socket.IO real-time messaging  
-- JWT authentication  
-- Online/offline user tracking  
-- Clean UI with React + Tailwind  
-
-🔗 Repo: *Add your GitHub link here*
-
----
-
-### 🎯 **Placement Guider**
-A student placement preparation platform:
-- Study paths  
-- Quizzes  
-- Resources  
-- Roadmaps  
-
-🔗 Repo: *Add your GitHub link here*
-
----
-
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedashik05&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedashik05&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedashik05&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedashik05&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
-![Ashik's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedashik05&theme=react-dark)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedashik05&theme=react-dark" />
+</p>
 
 ---
-
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=mohammedashik05&style=for-the-badge)
-
----
-
-## ⭐ Let's Connect!
-💬 Feel free to reach out if you want to collaborate or discuss cool projects!
-
