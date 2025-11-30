@@ -5,6 +5,9 @@
 
 ---
 
+
+
+
 ## 👨‍💻 About Me
 I am a MERN Stack Developer and Java Programmer with a strong interest in building secure, scalable, and high-performance applications. I enjoy working on both frontend and backend development, creating clean interfaces as well as robust server-side systems.
 
